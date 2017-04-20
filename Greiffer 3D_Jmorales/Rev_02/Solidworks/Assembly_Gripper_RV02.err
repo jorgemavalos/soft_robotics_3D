@@ -1,0 +1,40 @@
+
+
+
+          SolidWorks Corporation - STEP Processor Error Log
+          ______________________________________________________
+
+                       STEP Post Processor
+                       ___________________
+
+
+STEP File Name: C:\Users\Jmorales\Github\soft_robotics_3D\Greiffer 3D_Jmorales\Rev_02\Solidworks\Assembly_Gripper_RV02.stp
+
+
+#3981: halfcone definition
+#4012: halfcone definition
+Surfaces successfully processed into a solid body.
+STEP-in completed.WARNING: Surface problem...Loops of curves have inconsistent directions.
+WARNING: Surface problem...Loops of curves have inconsistent directions.
+Surfaces successfully processed into a solid body.
+STEP-in completed.
+Error: Unable to create solid from trimmed surfaces.
+STEP-in did not complete successfully.
+Surfaces successfully processed into a solid body.
+STEP-in completed.#12820: halfcone definition
+#12820: halfcone definition
+Surfaces successfully processed into a solid body.
+STEP-in completed.#13034: halfcone definition
+#13034: halfcone definition
+Surfaces successfully processed into a solid body.
+STEP-in completed.#67541: halfcone definition
+#67581: halfcone definition
+Surfaces successfully processed into a solid body.
+STEP-in completed.#140760: halfcone definition
+#140791: halfcone definition
+Surfaces successfully processed into a solid body.
+STEP-in completed.#219431: halfcone definition
+#219462: halfcone definition
+Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.
