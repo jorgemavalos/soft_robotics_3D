@@ -1,0 +1,3 @@
+Mesh Preparation:  0 hr 0 min 6 sec
+Standard solid mesh total:  0 hr 0 min 3 sec
+Beam mesh:  0 hr 0 min 0 sec
